@@ -2,7 +2,7 @@ package Easy.A;
 
 import java.util.Scanner;
 
-public class ASCIIKassi2 {
+public class asciikassi2 {
 
     public static void main(String[] args){
         Scanner myScanner = new Scanner(System.in);

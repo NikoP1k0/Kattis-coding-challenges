@@ -3,7 +3,7 @@ package Easy.A;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ABC {
+public class abc {
     // A is the smallest value, B is the seconds smallest and C is the largest value (A<B<C)
 
     private static int[] OrderCalculator(int[] inputNumbers, char[] order){

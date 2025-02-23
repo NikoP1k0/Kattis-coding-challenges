@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class ACMContestScoring {
+public class acm {
 
     private static int TimeCalculator(int[] minutes, char[] problems, String[] results){
 

@@ -2,7 +2,7 @@ package Easy.A;
 
 import java.util.Scanner;
 
-public class AShortcutToWhat {
+public class shortcuttowhat {
 
     public static void main(String[] args){
         Scanner newScanner = new Scanner(System.in);

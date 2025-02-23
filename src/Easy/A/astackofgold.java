@@ -3,7 +3,7 @@ package Easy.A;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class AStackOfGold {
+public class astackofgold {
 
     private static int GoldCoinCalculator(int w, int s){
         int tungstenWeight = 0;

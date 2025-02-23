@@ -2,7 +2,7 @@ package Easy.A;
 
 import java.util.Scanner;
 
-public class A_Second_Opinion {
+public class secondopinion {
 
     private static String SecondsToTimeCalculator(int seconds){
 
